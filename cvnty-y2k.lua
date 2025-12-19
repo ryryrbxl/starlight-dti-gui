@@ -1,4 +1,4 @@
-game.ReplicatedStorage:WaitForChild('RemoteEvents'):WaitForChild('ClassicMakeup'):FireServer(227, "Light")
+game.ReplicatedStorage:WaitForChild('RemoteEvents'):WaitForChild('ClassicMakeup'):FireServer(1, "Light")
 game.ReplicatedStorage:WaitForChild('RemoteEvents'):WaitForChild('CustomMakeup'):FireServer('Lips', 194, 2)
 game.ReplicatedStorage:WaitForChild('RemoteEvents'):WaitForChild('CustomMakeup'):FireServer('Lips', 194, 3)
 game.ReplicatedStorage:WaitForChild('RemoteEvents'):WaitForChild('CustomMakeup'):FireServer('Lips', 194, 1)
