@@ -2,5 +2,5 @@
 ## paste this official loadstring into your executor to use.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ryryrbxl/starlight-dti-gui/refs/heads/main/gui.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryryrbxl/starlight-dti-gui/refs/heads/main/gui.lua"))()
 ```
