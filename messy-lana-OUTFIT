@@ -1,7 +1,4 @@
 for i, v in game.Players.LocalPlayer.Character:WaitForChild('EquippedAccessories'):GetChildren() do game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('UnequipItem'):FireServer(v.Name) end
-game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('EquipItem'):FireServer("Lana Rae's Shorts")
-game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('ColorAccessory'):FireServer("Lana Rae's Shorts", '1', Color3.new(0.4117647111415863, 0.0470588244497776, 0.054901961237192154))
-game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('DressUpToggle'):FireServer("Lana Rae's Shorts", 1, {})
 game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('EquipItem'):FireServer("DTI x BRAT: - Hair 4")
 game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('ColorAccessory'):FireServer("DTI x BRAT: - Hair 4", '1', Color3.new(0.45490196347236633, 0.3176470696926117, 0.2235294133424759))
 game:GetService('ReplicatedStorage'):WaitForChild('RemoteEvents'):WaitForChild('DressUpToggle'):FireServer("DTI x BRAT: - Hair 4", 0, {})
