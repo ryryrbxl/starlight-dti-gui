@@ -3516,7 +3516,8 @@ G2L["16b"]["Color"] = Color3.fromRGB(255, 135, 206);
 
 -- StarterGui.DTIGUI.Main.UIDragDetector
 G2L["16c"] = Instance.new("UIDragDetector", G2L["3"]);
-G2L["16c"]["DragUDim2"] = UDim2.new(0, 2, 0, 102);
+G2L["16c"]["SelectionModeDragSpeed"] = UDim2.new(0, 0, 0, 0);
+G2L["16c"]["ResponseStyle"] = Enum.UIDragDetectorResponseStyle.Scale;
 
 
 -- StarterGui.DTIGUI.Main.Intro
