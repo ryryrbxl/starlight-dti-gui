@@ -9,6 +9,7 @@ __features:__
 
 ## blacklisting:
 abusing anything in the gui will get you permanently blacklisted.
+
 distributing unobfuscated or modified versions of any code will get you blacklisted.
 
 ## paste this official loadstring into your executor to use the gui:
