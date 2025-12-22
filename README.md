@@ -8,9 +8,9 @@ __features:__
 - teleport to old quests + restricted areas
 
 ## blacklisting:
-abusing anything in the gui will get you permanently blacklisted.
+abusing anything in the gui will get your userid blacklisted.
 
-distributing unobfuscated or modified versions of any code will get you blacklisted.
+distributing unobfuscated or modified versions of any code will get your userid blacklisted.
 
 ## paste this official loadstring into your executor to use the gui:
 ```lua
