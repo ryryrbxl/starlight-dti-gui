@@ -14,5 +14,5 @@ distributing unobfuscated or modified versions of any code will get your userid 
 
 ## paste this official loadstring into your executor to use the gui:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ryryrbxl/starlight-dti-gui/refs/heads/main/gui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/starl1ghtscripter/starlight-dti-gui/refs/heads/main/gui.lua"))()
 ```
