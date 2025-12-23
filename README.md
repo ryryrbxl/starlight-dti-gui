@@ -7,11 +7,6 @@ __features:__
 - outfit presets to troll or use in rounds
 - teleport to old quests + restricted areas
 
-## blacklisting:
-abusing anything in the gui will get your userid blacklisted.
-
-distributing unobfuscated or modified versions of any code will get your userid blacklisted.
-
 ## paste this official loadstring into your executor to use the gui:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/starl1ghtscripter/starlight-dti-gui/refs/heads/main/gui.lua"))()
