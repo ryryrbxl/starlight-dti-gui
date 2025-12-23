@@ -1,13 +1,14 @@
-# welcome to starlight dti gui, an advanced exploit for dress to impress.
-__features:__
-- all DLC code faces (updated frequently)
-- full outfit copying/saving
-- copy adjustments, patterns, materials and full makeup!
-- unlocked items, codes and poses
-- outfit presets to troll or use in rounds
-- teleport to old quests + restricted areas
+## Exploit for Dress to Impress - Working as of December 2025
+୨ৎ **GUI Features:** ୨ৎ
 
-## paste this official loadstring into your executor to use the gui:
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/starl1ghtscripter/starlight-dti-gui/refs/heads/main/gui.lua"))()
-```
+- Access to free DLC makeup, including all collections. ⟡
+- Ability to steal outfits and custom makeup looks.  ݁ ⟡ ݁ 
+- Free walk packs available. (Occasionally buggy)  ݁ ⟡ ݁                                          
+- Teleport to older quests, including all quests from 2024 and 2025!  ݁ ⟡ ݁ 
+- Unlock all POSES + CODES for free!  ݁ ⟡ ݁ 
+- Outfit presets to help you troll or achieve top spots on the leaderboard.  ݁ ⟡ ݁ 
+-------------------------------------------------------------------------------------
+-# Note that we do not take any responsibility if you get banned from/reported to DTI. 𑣲
+
+Copy and paste the script below into your executor to use the GUI.
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/starl1ghtscripter/starlight-dti-gui/refs/heads/main/gui.lua"))()```
