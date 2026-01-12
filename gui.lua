@@ -4414,6 +4414,11 @@ local script = G2L["b5"];
 		end
 	end
 	
+	local function getGender(char:Model)
+		local gender = char:WaitForChild("Gender")
+		return gender.Value
+	end
+	
 	local function getItemToggles(char:Model, itemName)
 		local item = char:WaitForChild("EquippedAccessories"):FindFirstChild(itemName)
 		if item then
@@ -4569,6 +4574,9 @@ local script = G2L["b5"];
 				return
 			end
 		end
+		
+		game.ReplicatedStorage.RemoteEvents.ChangeGender:FireServer(getGender(char))
+		
 		local equipped = char:WaitForChild("EquippedAccessories")
 		
 		for i, item in equipped:GetChildren() do
