@@ -1,4 +1,4 @@
-## Exploit for Dress to Impress - Working as of December 2025
+## Exploit for Dress to Impress - Working as of Feb 2026 (Winter)
 ୨ৎ **GUI Features:** ୨ৎ
 
 - Access to free DLC makeup, including all collections. ⟡
